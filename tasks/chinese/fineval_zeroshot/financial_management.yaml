@@ -1,5 +1,5 @@
-"dataset_name": "financial_management"
+"dataset_name": "financial_management_zeroshot"
 "description": ""
 "include": "./_default_fineval_yaml"
-"tag": "zh-fineval"
-"task": "zh-fineval_financial_management"
+"tag": "zh-fineval-zeroshot"
+"task": "zh-fineval_zeroshot_financial_management"

@@ -1,5 +1,5 @@
-"dataset_name": "intermediate_financial_accounting"
+"dataset_name": "intermediate_financial_accounting_zeroshot"
 "description": ""
 "include": "./_default_fineval_yaml"
-"tag": "zh-fineval"
-"task": "zh-fineval_intermediate_financial_accounting"
+"tag": "zh-fineval-zeroshot"
+"task": "zh-fineval_zeroshot_intermediate_financial_accounting"

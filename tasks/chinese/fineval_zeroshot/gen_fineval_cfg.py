@@ -68,9 +68,9 @@ if __name__ == "__main__":
 
         yaml_dict = {
             "include": f"./{base_yaml_name}",
-            "tag": "zh-fineval",
-            "task": f"zh-fineval_{subject_en}",
-            "dataset_name": subject_en,
+            "tag": "zh-fineval-zeroshot",
+            "task": f"zh-fineval_zeroshot_{subject_en}",
+            "dataset_name": f"{subject_en}_zeroshot",
             "description": "",
         }
 
