@@ -1,4 +1,4 @@
-"dataset_name": "accounting_zeroshot"
+"dataset_name": "accounting"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

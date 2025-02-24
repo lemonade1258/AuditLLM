@@ -1,4 +1,4 @@
-"dataset_name": "advanced_financial_accounting_zeroshot"
+"dataset_name": "advanced_financial_accounting"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

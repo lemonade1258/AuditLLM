@@ -1,4 +1,4 @@
-"dataset_name": "central_banking_zeroshot"
+"dataset_name": "central_banking"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

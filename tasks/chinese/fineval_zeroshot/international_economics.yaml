@@ -1,4 +1,4 @@
-"dataset_name": "international_economics_zeroshot"
+"dataset_name": "international_economics"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

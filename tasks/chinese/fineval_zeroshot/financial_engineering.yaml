@@ -1,4 +1,4 @@
-"dataset_name": "financial_engineering_zeroshot"
+"dataset_name": "financial_engineering"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

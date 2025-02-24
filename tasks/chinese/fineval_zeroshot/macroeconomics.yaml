@@ -1,4 +1,4 @@
-"dataset_name": "macroeconomics_zeroshot"
+"dataset_name": "macroeconomics"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

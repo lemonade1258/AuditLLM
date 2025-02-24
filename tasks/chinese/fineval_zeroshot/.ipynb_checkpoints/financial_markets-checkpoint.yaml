@@ -1,4 +1,4 @@
-"dataset_name": "financial_markets"
+"dataset_name": "financial_markets_zeroshot"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

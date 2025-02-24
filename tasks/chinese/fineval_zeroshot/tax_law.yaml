@@ -1,4 +1,4 @@
-"dataset_name": "tax_law_zeroshot"
+"dataset_name": "tax_law"
 "description": ""
 "include": "./_default_fineval_yaml"
 "tag": "zh-fineval-zeroshot"

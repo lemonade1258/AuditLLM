@@ -70,7 +70,7 @@ if __name__ == "__main__":
             "include": f"./{base_yaml_name}",
             "tag": "zh-fineval-zeroshot",
             "task": f"zh-fineval_zeroshot_{subject_en}",
-            "dataset_name": f"{subject_en}_zeroshot",
+            "dataset_name": f"{subject_en}",
             "description": "",
         }
 
