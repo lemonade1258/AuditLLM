@@ -1,0 +1,5 @@
+"dataset_name": "international_economics"
+"description": ""
+"include": "./_default_fineval_yaml"
+"tag": "zh-fineval"
+"task": "zh-fineval_international_economics"
