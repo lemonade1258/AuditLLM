@@ -1,4 +1,4 @@
-dataset_path: daishen/zh-fineval
+dataset_path: TheFinAI/zh-fineval
 dataset_kwargs:
   cache_dir: /data/wangyuxin/.cache/huggingface/datasets/
   trust_remote_code: true
