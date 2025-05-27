@@ -64,22 +64,22 @@ Domain-specific LLMs have become an increasingly important research issue in rec
 
 Directory Structure
 
----
-├─evaluation
-│  ├─corpus
-│  └─project
-│      ├─finlm_eval
-│      ├─scripts
-│      └─tasks #evaluation tasks
-│          ├─chinese
-│          │  ├─fineval_fewshot
-│          │  ├─fineval_zeroshot
-│          │  ├─regClassification
-│          │  ├─regClassification_zeroshot
-│          │  ├─regQa
-│          │  └─regQa_zeroshot
-│          └─plutus
-└─results
+--- <br>
+├─evaluation <br>
+│  ├─corpus <br>
+│  └─project <br>
+│      ├─finlm_eval <br>
+│      ├─scripts <br>
+│      └─tasks #evaluation tasks <br>
+│          ├─chinese <br>
+│          │  ├─fineval_fewshot <br>
+│          │  ├─fineval_zeroshot <br>
+│          │  ├─regClassification <br>
+│          │  ├─regClassification_zeroshot <br>
+│          │  ├─regQa <br>
+│          │  └─regQa_zeroshot <br>
+│          └─plutus <br>
+└─results <br>
 
 ---
 
