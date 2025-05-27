@@ -1,5 +1,0 @@
-"dataset_name": "certified_practising_accountant"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_certified_practising_accountant"

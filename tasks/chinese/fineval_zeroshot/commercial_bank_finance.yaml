@@ -1,5 +1,0 @@
-"dataset_name": "commercial_bank_finance"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_commercial_bank_finance"

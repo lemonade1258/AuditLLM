@@ -1,5 +1,0 @@
-"dataset_name": "monetary_finance"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_monetary_finance"

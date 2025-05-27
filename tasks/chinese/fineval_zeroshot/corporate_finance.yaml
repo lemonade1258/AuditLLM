@@ -1,5 +1,0 @@
-"dataset_name": "corporate_finance"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_corporate_finance"

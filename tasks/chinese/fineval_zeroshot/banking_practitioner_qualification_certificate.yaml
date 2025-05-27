@@ -1,5 +1,0 @@
-"dataset_name": "banking_practitioner_qualification_certificate"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_banking_practitioner_qualification_certificate"

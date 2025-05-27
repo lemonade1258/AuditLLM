@@ -1,5 +1,0 @@
-"dataset_name": "futures_practitioner_qualification_certificate"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_futures_practitioner_qualification_certificate"

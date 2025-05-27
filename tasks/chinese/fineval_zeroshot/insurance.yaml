@@ -1,5 +1,0 @@
-"dataset_name": "insurance"
-"description": ""
-"include": "./_default_fineval_yaml"
-"tag": "zh-fineval-zeroshot"
-"task": "zh-fineval_zeroshot_insurance"

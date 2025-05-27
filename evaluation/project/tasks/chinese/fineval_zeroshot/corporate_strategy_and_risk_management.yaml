@@ -1,0 +1,5 @@
+"dataset_name": "corporate_strategy_and_risk_management"
+"description": ""
+"include": "./_default_fineval_yaml"
+"tag": "zh-fineval-zeroshot"
+"task": "zh-fineval_zeroshot_corporate_strategy_and_risk_management"
