@@ -15,8 +15,14 @@ Domain-specific LLMs have become an increasingly important research issue in rec
 
 ## Overview framework of training Audit Language Model
 
+<img src="https://github.com/lemonade1258/AuditLLM/blob/main/images/figure01.svg" alt="Image" width="500"/>
 
-<img src="" alt="Image" width="500"/>
+## Evaluation dataset example
+
+| Dataset                          | Chinese Original                                                                                                                                                                                                                                                                                       | English Translation                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| financeiq                        | “请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母. 作为一个独立的法人实体，寿险公司的法人财产权是如何实现的？<br>A. 监事会<br>B. 股东大会<br>C. 保监会<br>D. 董事会<br><br>回答:”                                                             | ‘Please select the most appropriate answer from the choices in the following questions, simply return the letter corresponding to the choice. As a separate legal entity, how are the legal property rights of a life insurance company realized?<br>A. Board of Supervisors<br>B. General Meeting of Shareholders<br>C. Insurance Supervisory Commission<br>D. Board of Directors<br><br>Answer:‘ |
+| regulation audit entity classification | “请根据审计名词，从备选项中选择最符合的一类，并返回唯一答案.<br>请问证券公司企业债券承销利益输送审计属于下列哪一类审计名词?<br>财政审计<br>公共工程审计<br>海关审计<br>金融审计<br>社会保障审计<br>税收审计<br>资源环保审计<br><br>回答:” | ‘Based on the audit terms, please select the category that best matches from the alternatives and return the unique answer .<br>To which of the following categories of audit terms does the audit of the transfer of benefits from the underwriting of corporate bonds by securities firms belong?<br>Financial audits<br>Public works audits<br>Customs audit<br>Financial audit<br>Social Security Audit<br>Tax Audit<br>Resource Environmental Protection Audit<br><br>Answer:’ |
 
 
 # Result
